@@ -13,10 +13,10 @@ Objeví se formulář, v němž zadáte parametry hlasování. (Ty budete moci p
 Do pole **Short name** zadejte krátký název (jen písmena bez diakritiky, číslice, pomlčky a podtržítka) hlasování, který pak bude zvořit součást URL odkazu na něj. Například *kf-msk-20-2018-zmena-rozpoctu*.    
 Do pole **Name** zadejte název hlasování, který se bude zobrazovat jako jeho nadpis. Například *KF MSK 20/2018 Změna rozpočtu*.    
 Do pole **Description** zadejte všechny důležité informace o hlasování, tedy zejména 
-* odkaz na rozpravu a závěrečné řeči
-* přehled možností, mezi kterými budou hlasující vybírat
-* způsob hlasování
-* začátek a konec hlasování   
+  * odkaz na rozpravu a závěrečné řeči
+  * přehled možností, mezi kterými budou hlasující vybírat
+  * způsob hlasování
+  * začátek a konec hlasování   
 Pro formátování textu použijte HTML syntaxi.   
 Ve volbě **type** ponechte *Election*.   
 Volbu **Use voter aliases** ponechte nezaškrtnutou. Úmožní to mj. snazší odhalení případného pokusu o podvodné hlsování.   
