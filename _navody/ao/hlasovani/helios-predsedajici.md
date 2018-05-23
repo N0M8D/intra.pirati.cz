@@ -36,7 +36,7 @@ Nyní je třeba zadat otázku a seznam voličů. K zadání otázky se dostanete
 
 ![](../../../assets/img/helios/h-p4.png)
 
-Ve volbě **Zvolte mezi 0 a 1 odpověďmi** nastavte místo *1* maximální počet hlasů, které má volič k dispozici. Typ výsledku ponechte *absolutní*.   
+Ve volbě **Zvolte mezi 1 a 1 odpověďmi** nastavte jako horní hranici maximální počet hlasů, které má volič k dispozici. Typ výsledku ponechte *absolutní*.   
 Do pole **Otázka** zadejte znění otázky, tedy například *Ve věci navrženého usnesení hlasuji pro*.   
 Do polí **Odpověď #1** až **Odpověď #5** (nemusíte samozřejmě využít všechny) zadejte znění jednotlivých odpovědí, tedy například:   
 **Odpověď #1:** *schválení usesení*   
