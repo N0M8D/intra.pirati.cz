@@ -85,8 +85,24 @@ Rozhodnutí ukončit přípravu hlasování potvrdíte tlačítkem **Uzavřít h
 
 ![](../../../assets/img/helios/h-p11.png)
 
-Hlasování bude automaticky zahájeno a ukončeno v časech, které jste nastavili. (Pokud jste čas nastavení nezadali, bude zahájeno okamžitě. Pokud jste nezadali čas ukončení, budete ho muset ukončit ručně kliknutím na **ukončit hlasování a...**.)   
+Hlasování bude automaticky zahájeno a ukončeno v časech, které jste nastavili. (Pokud jste čas nastavení nezadali, bude zahájeno okamžitě. Pokud jste nezadali čas ukončení, budete ho muset ukončit ručně kliknutím na **vytvořit šifrovaný celkový výsledek hlasování**.)   
 Během hlasování můžete dobu trvání prodloužít kliknutím na **Extend voting**.
 
 ![](../../../assets/img/helios/h-p11.png)
 
+Zahájení hlasování byste měli voličům oznámit e-mailem. To provedete z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. 
+
+![](../../../assets/img/helios/h-p11.png)
+
+Z *Templates* vyberte *Simple* a do pole **Body** doplňte odkaz na úvodní stránku hlasování (protože Helios standardně posílá odkaz přímo na hlasovací budku). Ten získáte odstraněním "/vote" z URL hlasovací budky, který vidíte v náhledu mailu. Tedy například *https://helios.pirati.cz/helios/e/kf-msk-20-2018-zmena-rozpoctu*. Volbu **Send to** ponechte na *all voters* a odešlete e-mail tlačítkem **Send**.
+
+Po naplánovaném ukončení hlasování klikněte na **vytvořit šifrovaný celkový výsledek hlasování**.)   
+Poté, co Helios výsledek zpracuje, budete muset vyzvat trustees, aby provedli svá dílčí dešifrování. To provedete opět z odkazu **trustees** kliknutím na **send login** pro každého ze seznamu.   
+Poté zkombinujete dílčí dešifrování od jednotlivých trustéés kliknutím na **spojit...**.   
+Helios následně jen pro vás zobrazí výsledek hlasování. Ten zveřejníte kliknutím na **zveřejnit výsledek**.
+
+![](../../../assets/img/helios/h-p11.png)
+
+Poté jej uvidí každý, kdo si zbrazí úvodní stránku hlasování.
+
+O zveřejnění výsledku byste měli voliče rovněž informovat e-mailem. (Opět z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. Jako *Template* vybrat *Election result* a odeslat.)
