@@ -34,7 +34,7 @@ Po nastavení parametrů hlasování pokračujte tlačítkem **Pokračovat  >>**
 
 Nyní je třeba zadat otázku a seznam voličů. K zadání otázky se dostanete z odkazu **otázky (0)**.
 
-![](../../../assets/img/helios/h-p4.png)
+![](../../../assets/img/helios/h-p4a.png)
 
 Ve volbě **Zvolte mezi 1 a 1 odpověďmi** nastavte jako horní hranici maximální počet hlasů, které má volič k dispozici. Typ výsledku ponechte *absolutní*.   
 Do pole **Otázka** zadejte znění otázky, tedy například *Ve věci navrženého usnesení hlasuji pro*.   
