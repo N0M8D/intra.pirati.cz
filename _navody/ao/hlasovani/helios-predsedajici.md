@@ -88,11 +88,11 @@ Rozhodnutí ukončit přípravu hlasování potvrdíte tlačítkem **Uzavřít h
 Hlasování bude automaticky zahájeno a ukončeno v časech, které jste nastavili. (Pokud jste čas nastavení nezadali, bude zahájeno okamžitě. Pokud jste nezadali čas ukončení, budete ho muset ukončit ručně kliknutím na **vytvořit šifrovaný celkový výsledek hlasování**.)   
 Během hlasování můžete dobu trvání prodloužít kliknutím na **Extend voting**.
 
-![](../../../assets/img/helios/h-p11.png)
+![](../../../assets/img/helios/h-p12.png)
 
 Zahájení hlasování byste měli voličům oznámit e-mailem. To provedete z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. 
 
-![](../../../assets/img/helios/h-p11.png)
+![](../../../assets/img/helios/h-p13.png)
 
 Z *Templates* vyberte *Simple* a do pole **Body** doplňte odkaz na úvodní stránku hlasování (protože Helios standardně posílá odkaz přímo na hlasovací budku). Ten získáte odstraněním "/vote" z URL hlasovací budky, který vidíte v náhledu mailu. Tedy například *https://helios.pirati.cz/helios/e/kf-msk-20-2018-zmena-rozpoctu*. Volbu **Send to** ponechte na *all voters* a odešlete e-mail tlačítkem **Send**.
 
@@ -101,7 +101,7 @@ Poté, co Helios výsledek zpracuje, budete muset vyzvat trustees, aby provedli 
 Poté zkombinujete dílčí dešifrování od jednotlivých trustéés kliknutím na **spojit...**.   
 Helios následně jen pro vás zobrazí výsledek hlasování. Ten zveřejníte kliknutím na **zveřejnit výsledek**.
 
-![](../../../assets/img/helios/h-p11.png)
+![](../../../assets/img/helios/h-p14.png)
 
 Poté jej uvidí každý, kdo si zbrazí úvodní stránku hlasování.
 
