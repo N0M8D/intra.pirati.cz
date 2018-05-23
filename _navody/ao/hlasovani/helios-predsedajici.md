@@ -2,7 +2,7 @@
 
 Předpokládáme, že již víte, jak v Heliosu hlasovat a jak se do něj přihlásit, a že máte nastudován příslušný [návod](helios.md). 
 
-Tvorbu hlasování zahájíte z titulní stránky tlačítkem Vytvořit hlasování
+Tvorbu hlasování zahájíte z titulní stránky tlačítkem Vytvořit hlasování (musíte být přihlášen).
 
 ![](../../../assets/img/helios/h-p1.png)
 
@@ -111,10 +111,10 @@ Poté zkombinujete dílčí dešifrování od jednotlivých trustees kliknutím 
 
 potvrďte tlačítkem **compute the tally**.
 
-Helios následně jen pro vás zobrazí výsledek hlasování. Ten zveřejníte kliknutím na **zveřejnit výsledek**.
+Helios následně jen pro vás zobrazí výsledek hlasování. 
 
 ![](../../../assets/img/helios/h-p16.png)
 
-Poté jej uvidí každý, kdo si zbrazí úvodní stránku hlasování.
+Ten zveřejníte kliknutím na **zveřejnit výsledek**. Poté jej uvidí každý, kdo si zbrazí úvodní stránku hlasování.
 
-O zveřejnění výsledku byste měli voliče rovněž informovat e-mailem. (Opět z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. Jako *Template* vybrat *Election result* a odeslat.)
+O zveřejnění výsledku byste měli voliče rovněž informovat e-mailem. (Opět z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. Jako *Template* vybrat *Election Result* a odeslat.)
