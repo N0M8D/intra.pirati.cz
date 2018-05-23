@@ -16,7 +16,7 @@ Do pole **Description** zadejte všechny důležité informace o hlasování, te
 * odkaz na rozpravu a závěrečné řeči
 * přehled možností, mezi kterými budou hlasující vybírat
 * způsob hlasování
-* začátek a konec hlasování\\
+* začátek a konec hlasování   
 Pro formátování textu použijte HTML syntaxi.   
 Ve volbě **type** ponechte *Election*.   
 Volbu **Use voter aliases** ponechte nezaškrtnutou. Úmožní to mj. snazší odhalení případného pokusu o podvodné hlsování.   
