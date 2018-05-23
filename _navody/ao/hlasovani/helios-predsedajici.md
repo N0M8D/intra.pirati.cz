@@ -2,7 +2,7 @@
 
 Předpokládáme, že již víte, jak v Heliosu hlasovat a jak se do něj přihlásit, a že máte nastudován příslušný [návod](helios.md). 
 
-Tvorbu hlasování zahájíte z titulní stránky tlačítkem Vytvořit hlasování (musíte být přihlášen).
+Tvorbu hlasování zahájíte z titulní stránky tlačítkem **Vytvořit hlasování** (musíte být přihlášen).
 
 ![](../../../assets/img/helios/h-p1.png)
 
@@ -17,9 +17,10 @@ Do pole **Description** zadejte všechny důležité informace o hlasování, te
   * přehled možností, mezi kterými budou hlasující vybírat
   * způsob hlasování
   * začátek a konec hlasování   
+  
 Pro formátování textu použijte HTML syntaxi.   
 Ve volbě **type** ponechte *Election*.   
-Volbu **Use voter aliases** ponechte nezaškrtnutou. Úmožní to mj. snazší odhalení případného pokusu o podvodné hlsování.   
+Volbu **Use voter aliases** ponechte nezaškrtnutou. Úmožní to mj. snazší odhalení případného pokusu o podvodné hlasování.   
 Volbu **Randomize answer order** ponechte nezaškrtnutou.    
 Volbu **Private?** ponechte nezaškrtnutou.   
 Do pole **Help Email Address** uveďte svou pirátskou mailovou adresu, aby vás hlasující mohli v případě problémů kontaktovat.   
