@@ -81,7 +81,7 @@ Když jste si jisti, že máte správně zadány všechny parametry hlasování,
 ![](../../../assets/img/helios/h-p10.png)
 
 Rozhodnutí ukončit přípravu hlasování potvrdíte tlačítkem **Uzavřít hlasovací lístek**.    
-**POZOR! Poté již nebude možné změnit ani popis hlsování, ani otázku a odpovědi, ani seznam voličů, ani seznam trustees!** 
+**POZOR! Poté již nebude možné změnit ani popis hlasování, ani otázku a odpovědi, ani seznam voličů, ani seznam trustees!** 
 
 ![](../../../assets/img/helios/h-p11.png)
 
@@ -90,18 +90,30 @@ Během hlasování můžete dobu trvání prodloužít kliknutím na **Extend vo
 
 ![](../../../assets/img/helios/h-p12.png)
 
+Zvolíte nový čas ukončení (v UTC) a potvrdíte klikem na **Prodloužit hlasování**.
+
 Zahájení hlasování byste měli voličům oznámit e-mailem. To provedete z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. 
 
 ![](../../../assets/img/helios/h-p13.png)
 
 Z *Templates* vyberte *Simple* a do pole **Body** doplňte odkaz na úvodní stránku hlasování (protože Helios standardně posílá odkaz přímo na hlasovací budku). Ten získáte odstraněním "/vote" z URL hlasovací budky, který vidíte v náhledu mailu. Tedy například *https://helios.pirati.cz/helios/e/kf-msk-20-2018-zmena-rozpoctu*. Volbu **Send to** ponechte na *all voters* a odešlete e-mail tlačítkem **Send**.
 
-Po naplánovaném ukončení hlasování klikněte na **vytvořit šifrovaný celkový výsledek hlasování**.)   
-Poté, co Helios výsledek zpracuje, budete muset vyzvat trustees, aby provedli svá dílčí dešifrování. To provedete opět z odkazu **trustees** kliknutím na **send login** pro každého ze seznamu.   
-Poté zkombinujete dílčí dešifrování od jednotlivých trustéés kliknutím na **spojit...**.   
-Helios následně jen pro vás zobrazí výsledek hlasování. Ten zveřejníte kliknutím na **zveřejnit výsledek**.
+Po naplánovaném ukončení hlasování klikněte na úvodní stránce na odkaz **vytvořit šifrovaný celkový výsledek hlasování**. Na následující stránce   
 
 ![](../../../assets/img/helios/h-p14.png)
+
+potvrďte tlačítkem **Spočítat zašifrovaný výsledek**.
+
+Poté, co Helios výsledek zpracuje, budete muset vyzvat trustees, aby provedli svá dílčí dešifrování. To provedete opět z odkazu **trustees** kliknutím na **send login** pro každého ze seznamu.   
+Poté zkombinujete dílčí dešifrování od jednotlivých trustees kliknutím na **spojit výsledky dešifrované trustees a vypočítat výsledek**. Na následující stránce
+
+![](../../../assets/img/helios/h-p15.png)
+
+potvrďte tlačítkem **compute the tally**.
+
+Helios následně jen pro vás zobrazí výsledek hlasování. Ten zveřejníte kliknutím na **zveřejnit výsledek**.
+
+![](../../../assets/img/helios/h-p16.png)
 
 Poté jej uvidí každý, kdo si zbrazí úvodní stránku hlasování.
 
