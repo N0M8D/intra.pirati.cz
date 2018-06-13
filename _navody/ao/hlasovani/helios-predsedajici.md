@@ -8,24 +8,24 @@ Tvorbu hlasování zahájíte z titulní stránky tlačítkem **Vytvořit hlasov
 
 Objeví se formulář, v němž zadáte parametry hlasování. (Ty budete moci později podle potřeby upravit, ale jen do zahájení hlasování.)
 
-![](../../../assets/img/helios/h-p2.png)
+![](../../../assets/img/helios/h-p2a.png)
 
-Do pole **Short name** zadejte krátký název (jen písmena bez diakritiky, číslice, pomlčky a podtržítka) hlasování, který pak bude zvořit součást URL odkazu na něj. Například *kf-msk-20-2018-zmena-rozpoctu*.    
-Do pole **Name** zadejte název hlasování, který se bude zobrazovat jako jeho nadpis. Například *KF MSK 20/2018 Změna rozpočtu*.    
-Do pole **Description** zadejte všechny důležité informace o hlasování, tedy zejména 
+Do pole **Zkratka** zadejte krátký název (jen písmena bez diakritiky, číslice, pomlčky a podtržítka) hlasování, který pak bude zvořit součást URL odkazu na něj. Například *kf-msk-20-2018-zmena-rozpoctu*.    
+Do pole **Název** zadejte název hlasování, který se bude zobrazovat jako jeho nadpis. Například *KF MSK 20/2018 Změna rozpočtu*.    
+Do pole **Popis** zadejte všechny důležité informace o hlasování, tedy zejména 
   * odkaz na rozpravu a závěrečné řeči
   * přehled možností, mezi kterými budou hlasující vybírat
   * způsob hlasování
   * začátek a konec hlasování   
   
 Pro formátování textu použijte HTML syntaxi.   
-Ve volbě **type** ponechte *Election*.   
-Volbu **Use voter aliases** ponechte nezaškrtnutou. Úmožní to mj. snazší odhalení případného pokusu o podvodné hlasování.   
-Volbu **Randomize answer order** ponechte nezaškrtnutou.    
-Volbu **Private?** ponechte nezaškrtnutou.   
-Do pole **Help Email Address** uveďte svou pirátskou mailovou adresu, aby vás hlasující mohli v případě problémů kontaktovat.   
-Volbu **Voting starts at** nastavte na plánovaný čas zahájení hlasování. Časy se uvádějí v UTC, takže o 1 (resp. 2, pokud je letní čas) méně než náš místní čas. Pro zahájení v 10.00 letního času tedy nastavte 8.00.   
-Volbu **Voting ends at** nastavte na plánovaný čas ukončení hlasování, opět v UTC.   
+Ve volbě **Typ** ponechte *Election*.   
+Volbu **Použít aliasy voličů** ponechte nezaškrtnutou. Úmožní to mj. snazší odhalení případného pokusu o podvodné hlasování.   
+Volbu **Odpovědi v náhodném pořadí** ponechte nezaškrtnutou.    
+Volbu **Soukromé?** ponechte nezaškrtnutou.   
+Do pole **E-mail pro nápovědu** uveďte svou pirátskou mailovou adresu, aby vás hlasující mohli v případě problémů kontaktovat.   
+Volbu **Hlasování začíná v** nastavte na plánovaný čas zahájení hlasování. Časy se uvádějí v UTC, takže o 1 (resp. 2, pokud je letní čas) méně než náš místní čas. Pro zahájení v 10.00 letního času tedy nastavte 8.00.   
+Volbu **Hlasování končí v** nastavte na plánovaný čas ukončení hlasování, opět v UTC.   
 Pokud časy nenastavíte, bude hlasování zahájeno ihned po skončení tvorby hlasovacího lístku (viz dále) a ukončit jej budete muset ručně.
 
 Po nastavení parametrů hlasování pokračujte tlačítkem **Pokračovat  >>** a dostanete se na úvodní stránku hlasování. Jeho parametry můžete upravovat po stisku tlačítka **upravit**.
@@ -58,9 +58,9 @@ Poté se vraťte na úvodní stránku hlasování přes odkaz **zpět k hlasová
 
 Pro větší zabezpečení tajnosti hlasování je ještě žádoucí přidat tzv. *trustees*. Každý provádí jen částečné dešifrování výsledku hlasování, takže nikdo z nich nemůže dešifrovat výsledek sám. Trustees přidáte z odkazu **trustees (1)**.
 
-![](../../../assets/img/helios/h-p7.png)
+![](../../../assets/img/helios/h-p7a.png)
 
-V systému je nastaven jeden "automatický" trustee, zabudovaný přímo v Heliosu. Dalšího přidáte kliknutím na **add a trustee** a potvrzením *OK* ve vyskočivším popup okénku.
+V systému je nastaven jeden "automatický" trustee, zabudovaný přímo v Heliosu. Dalšího přidáte kliknutím na **přidat trusteeho** a potvrzením *OK* ve vyskočivším popup okénku.
 
 ![](../../../assets/img/helios/h-p8.png)
 
@@ -68,10 +68,10 @@ Do pole **Name** zadejte jménu, které se bude zobrazovat  v seznamu trustees. 
 Do pole **Email** zadejte jeho pirátskou mailovou adresu.   
 Přidání dokončete kliknutím na **Add Trustee*.
 
-![](../../../assets/img/helios/h-p9.png)
+![](../../../assets/img/helios/h-p9a.png)
 
 Proces ještě aspoň jednou nebo dvakrát zopakujte (pro hlasování oblastního sdružení postačí přidat 2 trustees, pro hlasování CF jsou vhodnější 3).   
-Nyní je třeba každému z "lidských" trustees zaslat mail s odkazem na stránku, kde si připraví své šifrovací klíče. To provedete klikem na **send login**.   
+Nyní je třeba každému z "lidských" trustees zaslat mail s odkazem na stránku, kde si připraví své šifrovací klíče. To provedete klikem na **poslat login**.   
 (V případě, že trustee nestihne připravit klíče do zahájení hlasování, lze ho ze seznamu vymazat kliknutím na **x**.)   
 Poté se vraťte na úvodní stránku hlasování. Nyní musíte vyčkat, než si trustees připraví své šifrovací klíče a nahrají veřejné klíče na server.
 
@@ -105,7 +105,7 @@ Po naplánovaném ukončení hlasování klikněte na úvodní stránce na odkaz
 
 potvrďte tlačítkem **Spočítat zašifrovaný výsledek**.
 
-Poté, co Helios výsledek zpracuje, budete muset vyzvat trustees, aby provedli svá dílčí dešifrování. To provedete opět z odkazu **trustees** kliknutím na **send login** pro každého ze seznamu.   
+Poté, co Helios výsledek zpracuje, budete muset vyzvat trustees, aby provedli svá dílčí dešifrování. To provedete opět z odkazu **trustees** kliknutím na **poslat login** pro každého ze seznamu.   
 Poté zkombinujete dílčí dešifrování od jednotlivých trustees kliknutím na **spojit výsledky dešifrované trustees a vypočítat výsledek**. Na následující stránce
 
 ![](../../../assets/img/helios/h-p15.png)
