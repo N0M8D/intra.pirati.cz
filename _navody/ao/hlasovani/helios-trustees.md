@@ -60,16 +60,21 @@ Vložte celý svůj soukromý klíč (tj. celý obsah textového souboru s klí�
 
 ## Po skončení hlasování
 
-![](../../../assets/img/helios/h-t14.png)
+Poté, co jso výsledky hlasování sečteny a je vytvořen zašifrovaný celkový výsledek, zašle vám předsedající opět odkaz na vaši domovskou stránku trusteeho.
 
+![](../../../assets/img/helios/h-t15.png)
 
-![](../../../assets/img/helios/h-t14.png)
+Můžete si znovu ověřit, že použijete správný soukromý klíč, a pokračovat kliknutím na **dešifrovat vaším klíčem**.
 
+![](../../../assets/img/helios/h-t16.png)
 
-![](../../../assets/img/helios/h-t14.png)
+Vložte celý svůj soukromý klíč (tj. celý obsah textového souboru s klíčem) do okénka a stiskněte **Provést částečné dešifrování**.
 
+![](../../../assets/img/helios/h-t17.png)
 
-![](../../../assets/img/helios/h-t14.png)
+Poté, co je částečné dešifrování provedeno, nahrajte jeho výsledek na server stiskem **Nahrát výsledek dešifrování na server**.
+Tím je váš úkol coby trusteeho splněn.
+
 
 
 
