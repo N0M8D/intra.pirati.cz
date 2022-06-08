@@ -24,8 +24,8 @@ Volbu **Použít aliasy voličů** ponechte nezaškrtnutou. Úmožní to mj. sna
 Volbu **Odpovědi v náhodném pořadí** ponechte nezaškrtnutou.    
 Volbu **Soukromé?** ponechte nezaškrtnutou.   
 Do pole **E-mail pro nápovědu** uveďte svou pirátskou mailovou adresu, aby vás hlasující mohli v případě problémů kontaktovat.   
-Volbu **Hlasování začíná v** nastavte na plánovaný čas zahájení hlasování. Časy se uvádějí v UTC, takže o 1 (resp. 2, pokud je letní čas) méně než náš místní čas. Pro zahájení v 10.00 letního času tedy nastavte 8.00.   
-Volbu **Hlasování končí v** nastavte na plánovaný čas ukončení hlasování, opět v UTC.   
+Volbu **Hlasování začíná v** nastavte na plánovaný čas zahájení hlasování.
+Volbu **Hlasování končí v** nastavte na plánovaný čas ukončení hlasování. 
 Pokud časy nenastavíte, bude hlasování zahájeno ihned po skončení tvorby hlasovacího lístku (viz dále) a ukončit jej budete muset ručně.
 
 Po nastavení parametrů hlasování pokračujte tlačítkem **Pokračovat  >>** a dostanete se na úvodní stránku hlasování. Jeho parametry můžete upravovat po stisku tlačítka **upravit**.
@@ -91,7 +91,7 @@ Během hlasování můžete dobu trvání prodloužít kliknutím na **Extend vo
 
 ![](../../../assets/img/helios/h-p12.png)
 
-Zvolíte nový čas ukončení (v UTC) a potvrdíte klikem na **Prodloužit hlasování**.
+Zvolíte nový čas ukončení a potvrdíte klikem na **Prodloužit hlasování**.
 
 Zahájení hlasování byste měli voličům oznámit e-mailem. To provedete z odkazu **voliči a hlasovací lístky** tlačítkem **Poslat voličům e-mail**. 
 
